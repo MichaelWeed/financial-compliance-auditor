@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Project Specific
+data/
+logs/
+.auditor_preferences.json
+app_launch.log
+final_audit_report.txt
+*.app/
+
+# macOS
+.DS_Store
+
+# Streamlit
+.streamlit/

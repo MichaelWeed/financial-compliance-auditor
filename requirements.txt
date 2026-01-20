@@ -1,0 +1,12 @@
+mlx
+mlx-lm
+lancedb
+langchain
+langgraph
+langchain-openai
+unstructured[pdf]
+pdfminer.six
+streamlit
+sentence-transformers
+pandas
+requests
